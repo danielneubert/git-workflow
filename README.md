@@ -60,7 +60,7 @@ In order to easily read through many commits the commit message is a short summa
   Change html code
 
   // good
-  Fix isse #1234
+  Fix issue #1234
   Add npm package "vue3"
   Change headlines for all cards
   ```
